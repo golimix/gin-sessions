@@ -381,7 +381,7 @@ import (
   "github.com/gin-contrib/sessions"
   gormsessions "github.com/gin-contrib/sessions/gorm"
   "github.com/gin-gonic/gin"
-  "gorm.io/driver/sqlite"
+  "github.com/glebarez/sqlite"
   "gorm.io/gorm"
 )
 
